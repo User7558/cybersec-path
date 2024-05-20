@@ -29,10 +29,10 @@ Sem mais delongas, te desejo bons estudos!
   - Inglês
     - [ ] Kultivi - Curso de inglês: https://kultivi.com/cursos/idiomas/ingles
   - Português
-    - [ ] EV - Comunicação Escrita: https://www.ev.org.br/cursos/comunicacao-escrita
+    - [x] EV - Comunicação Escrita: https://www.ev.org.br/cursos/comunicacao-escrita
   - Base de Computação
-    - [ ] Netacad - Get Connected: https://www.netacad.com/courses/os-it/get-connected
-    - [ ] FIAP - Gestão de Infraestrutura de TI: https://on.fiap.com.br/local/movimentobrasildigital/
+    - [x] Netacad - Get Connected: https://www.netacad.com/courses/os-it/get-connected
+    - [x] FIAP - Gestão de Infraestrutura de TI: https://on.fiap.com.br/local/movimentobrasildigital/
   - Segurança da informação geral
     - [ ] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
     - [ ] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade

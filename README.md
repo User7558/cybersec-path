@@ -52,9 +52,9 @@ Sem mais delongas, te desejo bons estudos!
 
 ## Iniciante - 17 materiais
   - Português
-    - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
+    - [x] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
-    - [ ] edX Harvard - cs50x: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+    - [x] edX Harvard - cs50x: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
   - Base de Redes
     - [ ] Netacad - CCNAv7 Introdução às Redes (pelo Nic.Br):  https://cursoseventos.nic.br/curso/curso-ccna-intro-cisco-nicbr/
   - Segurança da informação geral

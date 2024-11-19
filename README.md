@@ -34,7 +34,7 @@ Sem mais delongas, te desejo bons estudos!
     - [x] Netacad - Get Connected: https://www.netacad.com/courses/os-it/get-connected
     - [x] FIAP - Gestão de Infraestrutura de TI: https://on.fiap.com.br/local/movimentobrasildigital/
   - Segurança da informação geral
-    - [ ] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
+    - [x] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
     - [ ] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade
     - [ ] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
   - Sistemas Operacionais Windows

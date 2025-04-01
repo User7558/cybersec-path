@@ -35,8 +35,8 @@ Sem mais delongas, te desejo bons estudos!
     - [x] FIAP - Gestão de Infraestrutura de TI: https://on.fiap.com.br/local/movimentobrasildigital/
   - Segurança da informação geral
     - [x] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
-    - [ ] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade
-    - [ ] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
+    - [x] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade
+    - [x] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Path Microsoft 365 (9 Módulos): https://docs.microsoft.com/en-us/learn/paths/m365-getmodern/
   - Sistemas Operacionais Linux
@@ -58,7 +58,7 @@ Sem mais delongas, te desejo bons estudos!
   - Base de Redes
     - [ ] Netacad - CCNAv7 Introdução às Redes (pelo Nic.Br):  https://cursoseventos.nic.br/curso/curso-ccna-intro-cisco-nicbr/
   - Segurança da informação geral
-    - [ ] Netacad - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
+    - [x] Netacad - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
     - [ ] SANS - CyberAces: https://www.sans.org/cyberaces/
     - [ ] NIC.br - Tratamento de Incidentes de Segurança na Internet, explicado pelo NIC.br: https://youtu.be/flu6JPRHW04
   - Sistemas Operacionais Windows
@@ -82,7 +82,7 @@ Sem mais delongas, te desejo bons estudos!
 
 ## Iniciado - 25 materiais
   - Português
-    - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
+    - [x] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Processos de TI
     - [ ] LearnQuest Coursera - ITIL4: https://www.coursera.org/learn/itil-4-exam-preparation
   - Base de Redes
